@@ -12,7 +12,7 @@ pipeline: raw messy data in, deployed API out.
 Currently open to Data Science / ML roles in France.
 
 📍 Paris, France  
-📬 abbasi-anees.ahmad@outlook.com · [Linkedin](www.linkedin.com/in/anees-abbasi-30109b1b0)
+📬 abbasi-anees.ahmad@outlook.com · [Linkedin](https://www.linkedin.com/in/anees-abbasi-30109b1b0/)
 
 ---
 
