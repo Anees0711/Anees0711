@@ -53,9 +53,14 @@ without drowning in false positives.
 
 ---
 
-## GitHub activity
 
-![Anees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anees0711&show_icons=true&theme=default)
+## 📊 GitHub Activity
+
+![Anees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anees0711&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anees0711&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anees0711&layout=compact&theme=merko)
 
 ---
 
