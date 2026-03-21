@@ -1,7 +1,7 @@
 # Hey, I'm Anees 👋
 
 I am a Data Scientist and ML Engineer based in Paris. I spend most of my time 
-building machine learning systems that actually work in production — not just 
+building machine learning systems that actually work in production not just 
 in notebooks.
 
 My background is a mix of IoT sensor data, predictive analytics, and cloud 
