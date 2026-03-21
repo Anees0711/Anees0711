@@ -25,7 +25,7 @@ Currently open to Data Science / ML roles in France.
 | **Cloud & MLOps** | Azure ML, Docker, MLflow, Azure Functions, CI/CD |
 | **Data Engineering** | InfluxDB, MongoDB, Azure Blob, Event Hub, SQL |
 | **Interfaces & APIs** | FastAPI, Streamlit, Power BI |
-| **Certifications** | DP-100 · AZ-400 · AZ-104 (Microsoft) |
+| **Certifications** | DP-100, AZ-400, AZ-104 (Microsoft) | Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering
 
 ---
 
