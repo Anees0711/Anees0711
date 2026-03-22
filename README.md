@@ -23,7 +23,8 @@ Currently open to Data Science / ML roles in France.
 | **ML & Deep Learning** | PyTorch, TensorFlow/Keras, Scikit-learn, XGBoost, LSTM, YOLO |
 | **Computer Vision** | OpenCV, DETR, CNN, Transfer Learning |
 | **Cloud & MLOps** | Azure ML, Docker, MLflow, Azure Functions, CI/CD |
-| **Data Engineering** | InfluxDB, MongoDB, Azure Blob, Event Hub, SQL |
+| **Databases** | InfluxDB, MongoDB, Azure Blob, Event Hub, SQL |
+| **Data Engineering** | apache Spark, Kafka, Airflow, Docker, Kubernetes |
 | **Interfaces & APIs** | FastAPI, Streamlit, Power BI |
 | **Certifications** | DP-100, AZ-400, AZ-104 (Microsoft), Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering |
 
