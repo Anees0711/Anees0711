@@ -63,6 +63,6 @@ without drowning in false positives.
 
 ## Open to
 
-- Full-time / alternance Data & ML roles in France & Europe
+- Full-time Data & ML roles
 - Freelance ML / Data Science projects
 - Computer Vision & IoT Analytics consulting
