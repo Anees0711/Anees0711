@@ -9,7 +9,7 @@ deployment. I have worked on everything from real-time anomaly detection on
 industrial hardware to customer churn models running on Azure. I like the full 
 pipeline: raw messy data in, deployed API out.
 
-Currently open to Data Science / ML roles in France.
+Currently open to Data Engineer / ML / Devops / Mlops roles.
 
 📍 Paris, France  
 📬 abbasi-anees.ahmad@outlook.com · [Linkedin](https://www.linkedin.com/in/anees-abbasi-30109b1b0/)
