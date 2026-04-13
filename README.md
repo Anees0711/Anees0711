@@ -1,4 +1,4 @@
-# Hey, I'm Anees 👋
+# Hey, I am Anees 👋
 
 I am a Data Scientist and ML Engineer based in Paris. I spend most of my time 
 building machine learning systems that actually work in production not just 
@@ -51,15 +51,6 @@ Built during my time at Artifeel — real-time telemetry processing from IoT
 devices, anomaly detection using Scikit-learn, deployed on Azure ML. The tricky 
 part was handling irregular sensor signals and temporal degradation patterns 
 without drowning in false positives.  
-
----
-
-
-## 📊 GitHub Activity
-
-![Anees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anees0711&show_icons=true&theme=tokyonight)
-
----
 
 ## Open to
 
