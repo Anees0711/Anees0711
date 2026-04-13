@@ -26,11 +26,16 @@ Currently open to Data Engineer / ML / Devops / Mlops roles.
 | **Databases** | InfluxDB, MongoDB, Azure Blob, Event Hub, SQL |
 | **Data Engineering** | apache Spark, Kafka, Airflow, Docker, Kubernetes |
 | **Interfaces & APIs** | FastAPI, Streamlit, Power BI |
-| **Certifications** | DP-100, AZ-400, AZ-104 (Microsoft), Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering |
+| **Certifications** | DP-100, AZ-400, AZ-104, PL-900, DP-700 (Microsoft), Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering |
 
 ---
 
-## A few things I've built
+## A few things I have built
+
+**🔴 End-to-End-Retail-Data-Pipeline-on-Databricks**
+End-to-end retail data pipeline on Databricks using PySpark and Delta Lake, built with Bronze–Silver–Gold architecture and connected to Power BI for analytics.
+[View Repo]([https://github.com/Anees0711/End-to-End-Retail-Data-Pipeline-on-Databricks.git])
+
 
 **🔴 Real-Time Churn Prediction — Azure**  
 Event-driven pipeline that scores customer churn probability as events happen.
