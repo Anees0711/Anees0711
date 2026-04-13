@@ -1,6 +1,6 @@
 # Hey, I am Anees 👋
 
-I am a Data Scientist and ML Engineer based in Paris. I spend most of my time 
+I am a Data and ML Engineer based in Paris. I spend most of my time 
 building machine learning systems that actually work in production not just 
 in notebooks.
 
