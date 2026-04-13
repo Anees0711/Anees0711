@@ -32,9 +32,9 @@ Currently open to Data Engineer / ML / Devops / Mlops roles.
 
 ## A few things I have built
 
-**🔴 End-to-End-Retail-Data-Pipeline-on-Databricks**
+** End-to-End-Retail-Data-Pipeline-on-Databricks**
 End-to-end retail data pipeline on Databricks using PySpark and Delta Lake, built with Bronze–Silver–Gold architecture and connected to Power BI for analytics.
-[View Repo]([https://github.com/Anees0711/End-to-End-Retail-Data-Pipeline-on-Databricks.git])
+[View Repo](https://github.com/Anees0711/End-to-End-Retail-Data-Pipeline-on-Databricks.git)
 
 
 **🔴 Real-Time Churn Prediction — Azure**  
