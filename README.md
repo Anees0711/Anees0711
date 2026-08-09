@@ -26,7 +26,7 @@ Currently open to Data Engineer / ML / Devops / Mlops roles.
 | **Databases** | InfluxDB, MongoDB, Azure Blob, Event Hub, SQL |
 | **Data Engineering** | apache Spark, Kafka, Airflow, Docker, Kubernetes |
 | **Interfaces & APIs** | FastAPI, Streamlit, Power BI |
-| **Certifications** | DP-100, AZ-400, AZ-104, PL-900, DP-700 (Microsoft), Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering |
+| **Certifications** | Databricks Professional, DP-100, AZ-400, AZ-104, PL-900, DP-700 (Microsoft), Databricks Academy: Lakeflow Jobs, Lakeflow Connect, Spark Declarative Pipelines, DevOps for Data Engineering |
 
 ---
 
