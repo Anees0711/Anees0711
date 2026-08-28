@@ -133,7 +133,7 @@ Real time telemetry from industrial IoT devices, anomaly detection deployed on A
 
 **PTCL**, Pakistan · Data Analyst
 
-Four countries, four very different definitions of what counts as clean data. Telecom taught me scale. Consulting taught me to ship on a deadline. IoT taught me that the tutorial dataset lied to all of us.
+3 countries, three very different definitions of what counts as clean data. Telecom taught me scale. Consulting taught me to ship on a deadline. IoT taught me that the tutorial dataset lied to all of us.
 
 ---
 
@@ -141,7 +141,7 @@ Four countries, four very different definitions of what counts as clean data. Te
 
 I am currently open to:
 
-- Full time **Data Engineering, ML Engineering and MLOps** roles in France or remote
+- Full time **Data / AI / ML Engineering** roles in France or remote
 - Freelance data platform and ML delivery work
 - Computer vision and IoT analytics consulting
 
