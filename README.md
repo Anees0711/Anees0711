@@ -127,9 +127,9 @@ Real time telemetry from industrial IoT devices, anomaly detection deployed on A
 
 **Artifeel**, Paris · Data and ML Engineer — IoT anomaly detection and Azure ML deployment
 
-**Lune**, Dubai · Data and AI Engineer
-
 **Evamp & Saanga**, Islamabad · Data Analytics Engineer
+
+**Lune**, Dubai · Data and AI Engineer
 
 **PTCL**, Pakistan · Data Analyst
 
